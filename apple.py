@@ -1,6 +1,6 @@
 import pygame
 
-from game_state import SCALE
+from game_constants import SCALE
 from service.screen_service import ScreenService
 
 
